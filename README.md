@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emanuele! <br/><a href="https://linkedin.com">Cybersecurity Specialist</a></h1>
+<h1>Hi, I'm Emanuele! <br/><a href="https://linkedin.com">Cyber Security Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity & Hands-on Labs:</h2>
 
